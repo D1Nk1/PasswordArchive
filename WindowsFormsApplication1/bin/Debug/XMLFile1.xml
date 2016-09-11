@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<body>
+  <site name="www.yandex.ru">
+	<login>admin</login>
+	<password>312</password>
+  </site>
+  
+  <site name="www.google.com">
+	<login>user</login>
+  	<password>123</password>
+  </site>	 
+</body>
